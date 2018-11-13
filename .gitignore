@@ -4,6 +4,7 @@ Debug/*
 
 #
 *.db
+*.suo
 
 # Prerequisites
 *.d
