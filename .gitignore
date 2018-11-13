@@ -2,6 +2,9 @@
 Debug/*
 .vs/*
 
+#
+*.db
+
 # Prerequisites
 *.d
 
