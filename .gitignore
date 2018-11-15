@@ -2,6 +2,10 @@
 Debug/*
 .vs/*
 
+#
+*.db
+*.suo
+
 # Prerequisites
 *.d
 
